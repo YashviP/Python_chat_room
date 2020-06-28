@@ -14,7 +14,12 @@ connected clients.
 # How to Run Code-
 
 First make sure you have installed threading and ​ tkinter.
+
 First run server script
+
      $ python3 server.py
+     
 And then client script
+
      $ python3 client.py
+     
