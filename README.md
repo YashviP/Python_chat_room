@@ -11,7 +11,8 @@ server will collect incoming messages and then distribute them to the rest of th
 connected clients.
 
 
-How to Run Code-
+# How to Run Code-
+
 First make sure you have installed threading and ​ tkinter.
 First run server script
      $ python3 server.py
