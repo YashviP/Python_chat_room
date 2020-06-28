@@ -9,3 +9,11 @@ address, but most people tend to rather come up with some sort of username, so o
 server will first allow clients to connect and choose a username. Beyond this, the
 server will collect incoming messages and then distribute them to the rest of the
 connected clients.
+
+
+How to Run Code-
+First make sure you have installed threading and ​ tkinter.
+First run server script
+     $ python3 server.py
+And then client script
+     $ python3 client.py
